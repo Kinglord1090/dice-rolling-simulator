@@ -26,7 +26,7 @@ This project is a **Dice Rolling Simulator** that allows users to specify the nu
 
 1. Run the script:
     ```bash
-    python dice_simulator.py
+    python sim.py
     ```
 2. Follow the prompts to enter:
    - Number of dice to roll.
