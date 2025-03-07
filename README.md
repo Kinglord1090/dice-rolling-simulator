@@ -17,22 +17,22 @@ This project is a **Dice Rolling Simulator** that allows users to specify the nu
     ```bash
     git clone https://github.com/YourUsername/dice-rolling-simulator.git
     ```
-2. Navigate to the project folder:
-    ```bash
-    cd dice-rolling-simulator
-    ```
 
 ## Usage
 
-1. Run the script:
+1. Navigate to the project folder:
+    ```bash
+    cd dice-rolling-simulator
+    ```
+2. Run the script:
     ```bash
     python dice-roll-sim.py
     ```
-2. Follow the prompts to enter:
+3. Follow the prompts to enter:
    - Number of dice to roll.
    - Number of sides per die.
    - Number of times to roll the dice.
-3. View the output, which includes:
+4. View the output, which includes:
    - The sequence of rolls.
    - A count of how many times each side appeared.
 
