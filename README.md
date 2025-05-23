@@ -15,7 +15,7 @@ This project is a **Dice Rolling Simulator** that allows users to specify the nu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/dice-rolling-simulator.git
+    git clone https://github.com/Kinglord1090/dice-rolling-simulator.git
     ```
 
 ## Usage
